@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 🤓 </h2>
-<b>I'm Sultan Syach a Machine Learning Enthusiast, Developer & Designer 😁.
+<b>I'm Muhamad Frendi Diyon Ardiansah a IT Enthusiast, Developer, Videographer & Designer 😁.
 i always like to learn new things from others as much as helping others solve their problems. 
 You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. 
 A world where everything is free and everyone is free to experiment, 
